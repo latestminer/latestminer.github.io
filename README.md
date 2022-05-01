@@ -46,3 +46,7 @@ jobs:
 ## 站点基础配置
 
 `_config.yml` 中是站点的配置，改了什么请参考 http://tny.im/4jBq。
+
+## 插件配置
+
+### baidu-sitemap
