@@ -3,9 +3,7 @@ title: 关于本站
 comments: false
 ---
 
-## 防失联
-
-请及时收藏以下联系方式以防失联。
+请及时收藏以下联系方式以防失联
 
 - Telegram 挖矿技术群： https://t.me/Latest_Miner2022
 - Telegram 项目吐槽群： https://t.me/latest_staking
