@@ -1,6 +1,7 @@
 ---
 title: 关于本站
 comments: false
+cover: https://s2.loli.net/2022/05/05/N38wPbuIA4Ji2lk.png
 ---
 
 请及时收藏以下联系方式以防失联
